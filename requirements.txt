@@ -39,8 +39,6 @@ PyMsgBox==1.0.9
 pynput==1.7.3
 pyparsing==2.4.7
 pyperclip==1.8.2
-PyQt6-Qt6==6.0.2
-PyQt6-sip==13.0.1
 PyRect==0.1.4
 PyScreeze==0.1.26
 pyTelegramBotAPI==3.7.7
